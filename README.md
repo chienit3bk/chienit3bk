@@ -1,7 +1,38 @@
-## Hi there 👋 I'm Chien Nguyen
+<h2 align="center">Hi, I'm Chien Nguyen (Clark) 👋</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Shopify Developer</b> &nbsp;·&nbsp; focused on <b>Shopify Plus</b> &nbsp;·&nbsp; Checkout, Customer Account &amp; Apps
+</p>
 
-- 🔭 I have been working with [Qikify](https://qikify.com/) since June 2022, contributing to its development and growth.
-- 🌱 I’m currently learning Shopify App, about Shopify Function, Checkout Extensibility, Shopify Theme
-- 🌱 I'm using most time to support and help Shopify Plus merchant resolved their issues on Checkout, Customer Account, Thank you and Order status page
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chienit3bk&label=Profile%20views&color=008060&style=flat" alt="profile views" />
+</p>
+
+---
+
+- 🛒 Shopify Developer at **[Qikify](https://qikify.com/)** since June 2022
+- ⚡ Specialized in **Checkout Extensibility**, **Shopify Functions** & **Customer Account** customization
+- 🧩 Building **Shopify Apps** and **Themes** with the **GraphQL Admin API**
+- 🤝 Helping **Shopify Plus** merchants ship & debug **Checkout, Thank-you and Order Status** pages
+- 📫 Reach me at **chiennv1109@gmail.com**
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Liquid-0B3D2E?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chienit3bk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=008060&icon_color=008060" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienit3bk&layout=compact&hide_border=true&title_color=008060" alt="top languages" />
+</p>

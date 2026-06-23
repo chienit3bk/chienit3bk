@@ -3,52 +3,152 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My GitHub Profile</title>
+    <title>Chien Nguyen (Clark) — Shopify Developer</title>
     <style>
+      :root {
+        --green: #008060;
+        --green-dark: #0b3d2e;
+        --ink: #1a1a1a;
+        --muted: #5c6b66;
+        --line: #e3e8e6;
+        --bg: #f4f6f5;
+      }
+      * { box-sizing: border-box; }
       body {
         font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
         margin: 0;
-        padding: 40px;
-        background: #f5f5f5;
+        padding: 40px 20px;
+        background: var(--bg);
+        color: var(--ink);
+        line-height: 1.6;
       }
       .card {
-        max-width: 700px;
+        max-width: 720px;
         margin: 0 auto;
         background: #fff;
-        border-radius: 12px;
-        padding: 24px;
-        box-shadow: 0 0 0 1px #e3e3e3;
+        border-radius: 16px;
+        padding: 40px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 0 1px var(--line);
       }
-      h1 {
-        margin-top: 0;
-      }
-      .links a {
+      .badge {
         display: inline-block;
-        margin-right: 12px;
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--green);
+        background: rgba(0, 128, 96, 0.1);
+        padding: 4px 12px;
+        border-radius: 999px;
+        margin-bottom: 16px;
+      }
+      h1 { margin: 0 0 6px; font-size: 30px; }
+      .role { margin: 0 0 20px; color: var(--muted); font-size: 17px; }
+      .bio { font-size: 16px; color: #333; }
+      h2 {
+        font-size: 14px;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        color: var(--muted);
+        margin: 32px 0 14px;
+      }
+      ul.focus { list-style: none; padding: 0; margin: 0; }
+      ul.focus li {
+        padding: 8px 0 8px 26px;
+        position: relative;
+        border-bottom: 1px solid var(--line);
+      }
+      ul.focus li:last-child { border-bottom: none; }
+      ul.focus li::before {
+        content: "";
+        position: absolute;
+        left: 4px; top: 16px;
+        width: 7px; height: 7px;
+        border-radius: 50%;
+        background: var(--green);
+      }
+      .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+      .chip {
+        font-size: 13px;
+        font-weight: 500;
+        color: var(--green-dark);
+        background: #eef3f1;
+        border: 1px solid var(--line);
+        padding: 5px 12px;
+        border-radius: 8px;
+      }
+      .links { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 6px; }
+      .links a {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 15px;
+        color: #fff;
+        background: var(--green);
+        padding: 10px 18px;
+        border-radius: 10px;
+        transition: background 0.15s ease;
+      }
+      .links a:hover { background: var(--green-dark); }
+      .links a.ghost {
+        color: var(--green);
+        background: transparent;
+        border: 1.5px solid var(--green);
+      }
+      .links a.ghost:hover { background: rgba(0, 128, 96, 0.08); }
+      footer {
+        margin-top: 36px;
+        padding-top: 18px;
+        border-top: 1px solid var(--line);
+        font-size: 13px;
+        color: var(--muted);
       }
     </style>
   </head>
   <body>
     <div class="card">
-      <h1>Hi, I'm Clark 👋</h1>
-      <p>
-        I'm a Shopify developer and JavaScript engineer. This is my personal website
-        hosted on GitHub Pages.
+      <span class="badge">Shopify Developer</span>
+      <h1>Chien Nguyen <span style="color: var(--muted); font-weight: 400;">(Clark)</span></h1>
+      <p class="role">Shopify Plus · Checkout Extensibility · Customer Account · Apps</p>
+
+      <p class="bio">
+        Shopify developer at <a href="https://qikify.com/" style="color: var(--green); font-weight: 600;">Qikify</a>
+        since June 2022. I build Shopify apps and themes, and help Shopify Plus merchants
+        ship and debug their Checkout, Customer Account, Thank-you and Order Status experiences.
       </p>
 
-      <h2>Links</h2>
-      <div class="links">
-        <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a>
-        <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>
-        <a href="mailto:you@example.com">Email me</a>
+      <h2>What I focus on</h2>
+      <ul class="focus">
+        <li>Checkout Extensibility — UI extensions, Functions &amp; branding</li>
+        <li>Customer Account customization &amp; full-page extensions</li>
+        <li>Thank-you and Order Status page customization</li>
+        <li>Shopify Apps &amp; Themes with the GraphQL Admin API</li>
+      </ul>
+
+      <h2>Tech stack</h2>
+      <div class="chips">
+        <span class="chip">Shopify</span>
+        <span class="chip">Liquid</span>
+        <span class="chip">GraphQL</span>
+        <span class="chip">JavaScript</span>
+        <span class="chip">TypeScript</span>
+        <span class="chip">Vue.js</span>
+        <span class="chip">Node.js</span>
+        <span class="chip">HTML &amp; CSS</span>
       </div>
 
-      <h2>Projects</h2>
-      <ul>
-        <li>Project 1 – Short description</li>
-        <li>Project 2 – Short description</li>
-        <li>Project 3 – Short description</li>
-      </ul>
+      <h2>Get in touch</h2>
+      <div class="links">
+        <a href="https://github.com/chienit3bk" target="_blank" rel="noopener">GitHub</a>
+        <a class="ghost" href="mailto:chiennv1109@gmail.com">Email me</a>
+      </div>
+
+      <footer>
+        © <span id="year"></span> Chien Nguyen · Built with GitHub Pages
+      </footer>
     </div>
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
   </body>
 </html>
