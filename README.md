@@ -4,17 +4,13 @@
   <b>Shopify Developer</b> &nbsp;·&nbsp; focused on <b>Shopify Plus</b> &nbsp;·&nbsp; Checkout, Customer Account &amp; Apps
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chienit3bk&label=Profile%20views&color=008060&style=flat" alt="profile views" />
-</p>
-
 ---
 
 - 🛒 Shopify Developer at **[Qikify](https://qikify.com/)** since June 2022
 - ⚡ Specialized in **Checkout Extensibility**, **Shopify Functions** & **Customer Account** customization
 - 🧩 Building **Shopify Apps** and **Themes** with the **GraphQL Admin API**
 - 🤝 Helping **Shopify Plus** merchants ship & debug **Checkout, Thank-you and Order Status** pages
-- 📫 Reach me at **chiennv1109@gmail.com**
+- 📫 Reach me at **chienit3bk@gmail.com**
 
 ### 🛠️ Tech Stack
 
@@ -28,11 +24,4 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chienit3bk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=008060&icon_color=008060" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chienit3bk&layout=compact&hide_border=true&title_color=008060" alt="top languages" />
 </p>
