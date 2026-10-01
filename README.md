@@ -19,14 +19,6 @@
 - 🤖 Running an **AI agent workflow** (Claude Code) for planning, code review and QA
 - 📍 Hanoi, Vietnam
 
-### 🚀 Featured Projects
-
-| Project | What it is |
-|---|---|
-| [**token-slayer**](https://github.com/chienit3bk/token-slayer) | Cooperative idle boss raid for engineering teams — every token your coding agents spend becomes damage. Laravel + websockets + Slack. |
-| [**vn-address-data**](https://github.com/chienit3bk/vn-address-data) | Vietnam administrative-unit data with hierarchical lookup (province → ward) for the new 2-level model. TypeScript. |
-| [**oeditions-setup-hackathon**](https://github.com/chienit3bk/oeditions-setup-hackathon) | Beginner's guide to setting up a machine before a hackathon — Claude, GitHub, VS Code, GitHub Desktop. |
-
 ### 🛠️ Tech Stack
 
 <p>
