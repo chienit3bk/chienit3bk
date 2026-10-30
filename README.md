@@ -6,17 +6,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/clark-nguyen-149413272/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.upwork.com/freelancers/~01d98f2acd2861ac4f"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://dev.to/chienit3bk"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to" /></a>
   <a href="mailto:chienit3bk@gmail.com"><img src="https://img.shields.io/badge/Email-chienit3bk%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-- 🛒 Shopify Developer at **[Qikify](https://qikify.com/)** since June 2022 (~4 years)
+- 🛒 Senior Software Engineer at **[Qikify](https://qikify.com/) (Ownego)** since February 2022
 - ⚡ Specialized in **Checkout Extensibility**, **Shopify Functions** & **Customer Account** customization
 - 🔄 Migrating checkout extensions to **API 2026-07** — React → **Preact + Polaris web components**
 - 🧩 Building **Shopify Apps** end to end: embedded admin (**Vue 3**), **Laravel** backends, **GraphQL Admin API**
 - 🤝 Helping **Shopify Plus** merchants ship & debug **Checkout, Thank-you and Order Status** pages
 - 🤖 Running an **AI agent workflow** (Claude Code) for planning, code review and QA
+- 💼 **Open to freelance** — Checkout UI Extensions, Shopify Functions, Scripts → Functions migrations ([Upwork](https://www.upwork.com/freelancers/~01d98f2acd2861ac4f))
+- ✍️ Writing about checkout gotchas on [dev.to/chienit3bk](https://dev.to/chienit3bk)
 - 📍 Hanoi, Vietnam
 
 ### 🛠️ Tech Stack
